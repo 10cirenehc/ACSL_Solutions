@@ -7,6 +7,14 @@ ACSL CONTEST 2 2018-2019 Junior Division
 January 26, 2018
 */
 
+/* This program analyzes a sentence. The first stat returns the number of different 
+ * letters in the sentence [1,26]. The second stat returns the number of vowels 
+ * in the sentence. The third stat returns the number of capitalized letters. 
+ * The fourth stat returns the number of times the most frequent letter appears. 
+ * The fifth stat returns the longest word in the sentence. If there's a tie, then 
+ * it returns the first one by alphabetical order. 
+ */
+
 public class ERIC_CHEN_CONTEST2 {
 	
 	public static Scanner scanner = new Scanner( System.in );
